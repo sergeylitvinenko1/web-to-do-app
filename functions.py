@@ -1,5 +1,5 @@
-# FILEPATH = "todos.txt"  # relative path, does not work with web apps
-FILEPATH = "/Users/sergeylitvinenko/Library/Mobile Documents/com~apple~CloudDocs/Downloads/16_Python files /Udemy/app1/todos.txt"
+FILEPATH = "todos.txt"  # relative path, does not work with web apps
+# FILEPATH = "/Users/sergeylitvinenko/Library/Mobile Documents/com~apple~CloudDocs/Downloads/16_Python files /Udemy/app1/todos.txt"
 
 
 def get_todos(file_path=FILEPATH):
